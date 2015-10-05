@@ -1,0 +1,40 @@
+#NavBar{
+	top:0;
+	float:right;
+	width: 100%
+}
+
+#LogButton{
+	color: white;
+	background-color: #0174DF;
+	padding-right: 7px;
+	padding-left: 7px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	font-weight: bold;
+
+}
+
+
+li, ul{
+	font-size: 90%;
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	padding-right: 10px;
+}
+
+#Center{
+	text-align:  center;
+	padding-top: 150px;
+}
+
+#RightSide{
+	float :right;
+}
+
+footer{
+	background-color: #F2F2F2;
+	position: absolute;
+	width: 100%;
+	bottom:0;
+}
